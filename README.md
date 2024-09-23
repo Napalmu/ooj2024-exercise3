@@ -13,13 +13,11 @@ Huomaa, että testit täytyy kuitenkin ajaa erikseen.
 
 ## Tehtäviin vastaaminen
 
-- Tehtävät 
-- Tehtävä 3 
-- Tehtävä 4 
-- Tehtävä 5 
-- Tehtävä 6 
-- Tehtävä 7 
-- Tehtävä 8 
+- Tehtävät 1 & 2 tehdään kokonaan Villessä
+- Tehtävä 3 & 4 Tee uusia luokkia harjoituspohjan asiakasrekisteri-pakkaukseen
+- Tehtävä 5 Demonstrointi tehdään asiakasrekisteri-pakkauksen AsiakasRekisteriohjelmanKaynnistin-luokassa
+- Tehtävä 6 Tee uusia luokkia harjoituspohjan opintorekisteri-pakkaukseen
+- Tehtävä 7 Vastaa puolivälikyselyyn Villessä
 
 Maven-projektissa testit sijoitetaan test-hakemiston alle. 
 
